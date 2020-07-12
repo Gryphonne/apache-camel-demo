@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payment xmlns:xs="https://www.w3schools.com">
+  <originator>Bart</originator>
+  <beneficiary>Muthu</beneficiary>
+  <amount>100</amount>
+  <currency>EUR</currency>
+</payment>
